@@ -4,12 +4,13 @@ SW페스티벌에 전시했던 PVP전략 슈팅 카드게임 CardKin파일을 �
 한명은 호스트, 한명은 연결! 친구와 IP주소를 맞추면, 함께 대전할 수 있어요.
 * 덱 수정 기능은 지원하지 않습니다.
 </br>
-### 다운로드 링크
+## 다운로드 링크
+
 https://www.dropbox.com/s/ghvlpk4r4odre1i/CardKin.zip?dl=0
 
 
 </br>
-### 게임 방법
+## 게임 방법
 
 플레이어는 게임 시작과 동시에 5장의 카드를 뽑습니다.
 
@@ -29,7 +30,7 @@ https://www.dropbox.com/s/ghvlpk4r4odre1i/CardKin.zip?dl=0
 
 
 </br>
-### 조작 방법
+## 조작 방법
 
 플레이어는 WASD로 캐릭터를 움직이며, 마우스로 시야와 에임을 조절합니다.
 좌측의 Shift를 누르면 이동속도가 빨라집니다.
@@ -39,7 +40,7 @@ Tab버튼으로 카드창을 열 수 있으며 원하는 카드를 선택하여 
 - 또는, 상측의 숫자키 1, 2, 3, 4, 5로 카드를 선택할 수 있습니다. (~버튼 : 기본공격).
 
 </br>
-### 카드 스킬 설명
+## 카드 스킬 설명
 
 공격 : 블록퍼즐 
 유틸 : 키보드 퍼즐
@@ -86,5 +87,10 @@ Tab버튼으로 카드창을 열 수 있으며 원하는 카드를 선택하여 
 
 생명치환 (유틸)
 * 투사체에 맞은 상대방과 자신의 체력수치를 교환
+
+![image](https://user-images.githubusercontent.com/30552933/175558600-7cd8078e-13c8-4ebd-850d-abc4285cbb2a.png)
+![image](https://user-images.githubusercontent.com/30552933/175558679-2f25689f-3ecf-403d-8e36-2b4c55684254.png)
+
+![image](https://user-images.githubusercontent.com/30552933/175558635-7c6f61a5-c9f5-499d-a180-9473a453c130.png)
 
 
