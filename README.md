@@ -1,5 +1,8 @@
 # 2018 경희대학교 SW Festival 출품작 CardKin
 
+게임 영상 유튜브 링크 : https://www.youtube.com/watch?v=BKwL1zTkb2g  
+
+
 개발 : 팀_인디언 (하창범, 심은섭, 안해영)
 
 한명은 호스트, 한명은 연결! 친구와 IP주소를 맞추면, 함께 대전할 수 있어요.
